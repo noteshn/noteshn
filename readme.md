@@ -1,29 +1,29 @@
 ```js
-const exploit = ({
+const notice = ({
   about: {
-    name: "unknown",
-    alias: "exploitory",
-    location: "0.0.0.0",
-    role: "unknown",
-    company: "unknown"
+    name: "Notesh",
+    alias: "Ndarks",
+    location: "Nowhere",
+    role: "",
+    company: ""
   },
-  Expertise: [
-    "full Stack Development",
-    "cyber Security",
-    "machine Learning",
-    "automation"
+  expertise: [
+    "AI & ML",
+    "Cyber-Security",
+    "Blockchain & Web3",
+    "Full-Stack Development"
   ],
   mindset: [
-    "esoteric",
-    "resilient",
-    "mononymous",
-    "formidable"
+    "Esoteric",
+    "Resilient",
+    "Mononymous",
+    "Formidable"
   ],
   links: {
-    x: "exploitory",
-    discord: "dsc.gg/exploitory",
-    email: "hey@exploitory.work.gd"
+    x: "Noteshn",
+    telegram: "Noteshn",
+    email: "Noteshn@teclus.com"
   },
-  status: "in-active",
-  quote: `"who don’t follow trends. who build what's necessary."`
+  status: "In-active",
+  quote: `"Don’t follow trends, build what's necessary."`
 });
