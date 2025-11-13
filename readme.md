@@ -3,9 +3,9 @@ const notice = ({
   about: {
     name: "Notesh",
     alias: "Ndarks",
-    location: "Nowhere",
-    role: "",
-    company: ""
+    location: "Somewhere",
+    role: "SSE",
+    company: "Teclus"
   },
   expertise: [
     "AI & ML",
