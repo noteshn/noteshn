@@ -4,7 +4,7 @@ const notice = ({
     name: "Notesh",
     alias: "Ndarks",
     location: "Somewhere",
-    role: "SSE",
+    role: "SWE",
     company: "Teclus"
   },
   expertise: [
